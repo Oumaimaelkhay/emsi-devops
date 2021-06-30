@@ -1,2 +1,3 @@
-# emsi-devops
+# 0x00. SSH key
 
+Create a RSA key pair.
